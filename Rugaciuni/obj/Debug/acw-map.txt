@@ -1,0 +1,8 @@
+Rugaciuni.ReadModeActivity, Rugaciuni;md5ac80968e2550d11b0c9978f27c1de352.ReadModeActivity
+Rugaciuni.ReadModeActivity, Rugaciuni, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac80968e2550d11b0c9978f27c1de352.ReadModeActivity
+Rugaciuni.ReadModeActivity;md5ac80968e2550d11b0c9978f27c1de352.ReadModeActivity
+rugaciuni.ReadModeActivity;md5ac80968e2550d11b0c9978f27c1de352.ReadModeActivity
+Rugaciuni.MainActivity, Rugaciuni;md5ac80968e2550d11b0c9978f27c1de352.MainActivity
+Rugaciuni.MainActivity, Rugaciuni, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ac80968e2550d11b0c9978f27c1de352.MainActivity
+Rugaciuni.MainActivity;md5ac80968e2550d11b0c9978f27c1de352.MainActivity
+rugaciuni.MainActivity;md5ac80968e2550d11b0c9978f27c1de352.MainActivity

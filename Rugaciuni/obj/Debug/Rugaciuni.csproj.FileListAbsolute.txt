@@ -1,0 +1,16 @@
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\bin\Debug\Rugaciuni.dll
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\bin\Debug\Rugaciuni.pdb
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\bin\Debug\Rugaciuni.Rugaciuni.apk
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\bin\Debug\Rugaciuni.Rugaciuni-Signed.apk
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\Rugaciuni.csprojResolveAssemblyReference.cache
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\Rugaciuni.csproj.CoreCompileInputs.cache
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\Rugaciuni.dll
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\Rugaciuni.pdb
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\android\bin\Rugaciuni.Rugaciuni.apk
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\res\layout\main.xml
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\res\values\strings.xml
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\R.cs.flag
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\uploadflags.txt
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\bin\Debug\Rugaciuni.dll.mdb
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\android\assets\Rugaciuni.dll.mdb
+C:\Users\Flavius\source\repos\Rugaciuni\Rugaciuni\obj\Debug\res\layout\readmode.xml
