@@ -47,9 +47,6 @@ namespace Rugaciuni
 			// aapt resource value: 0x7f040004
 			public const int acatisteBtn = 2130968580;
 			
-			// aapt resource value: 0x7f04000b
-			public const int backBottomButton = 2130968587;
-			
 			// aapt resource value: 0x7f040006
 			public const int backTopButton = 2130968582;
 			
@@ -59,17 +56,11 @@ namespace Rugaciuni
 			// aapt resource value: 0x7f040007
 			public const int hotdogimageView = 2130968583;
 			
-			// aapt resource value: 0x7f040008
-			public const int hotdognametextView = 2130968584;
-			
 			// aapt resource value: 0x7f040000
 			public const int linearLayout1 = 2130968576;
 			
 			// aapt resource value: 0x7f040005
 			public const int paracliseBtn = 2130968581;
-			
-			// aapt resource value: 0x7f04000a
-			public const int relativeLayout1 = 2130968586;
 			
 			// aapt resource value: 0x7f040002
 			public const int rugaciuniDimineataBtn = 2130968578;
@@ -80,8 +71,8 @@ namespace Rugaciuni
 			// aapt resource value: 0x7f040001
 			public const int scrollView1 = 2130968577;
 			
-			// aapt resource value: 0x7f04000c
-			public const int scrollView2 = 2130968588;
+			// aapt resource value: 0x7f040008
+			public const int titleTextView = 2130968584;
 			
 			static Id()
 			{

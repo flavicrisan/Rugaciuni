@@ -6,7 +6,7 @@ using Android.Content;
 
 namespace Rugaciuni
 {
-    [Activity(Label = "Rugaciuni", MainLauncher = true)]
+    [Activity(Label = "Rugaciuni ortodoxe", MainLauncher = true)]
     public class MainActivity : Activity
     {
         private Button orderButton;

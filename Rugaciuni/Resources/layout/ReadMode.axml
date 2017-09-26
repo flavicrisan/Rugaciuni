@@ -11,7 +11,7 @@
         android:layout_centerInParent="true"
         android:layout_alignParentLeft="true" />
     <ScrollView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:minHeight="25px"
         android:minWidth="25px"
@@ -36,7 +36,7 @@
                 android:paddingLeft="20dp"
                 android:paddingRight="20dp"
                 android:textSize="16dp"
-                android:id="@+id/hotdognametextView"
+                android:id="@+id/titleTextView"
                 android:textColor="@android:color/black" />
             <TextView
                 android:text="full description"
@@ -48,24 +48,6 @@
                 android:textSize="16dp"
                 android:id="@+id/fullDescriptiontextView"
                 android:textColor="@android:color/black" />
-            <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/relativeLayout1">
-                <Button
-                    android:text="Inapoi"
-                    android:id="@+id/backBottomButton"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    android:layout_alignParentLeft="true" />
-            </RelativeLayout>
-            <ScrollView
-                android:minWidth="25px"
-                android:minHeight="25px"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/scrollView2" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
